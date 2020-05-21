@@ -26,7 +26,7 @@ body {
   padding: 10px 30px;
 }
 .banner {
-  background-image: url("baner.jpg");
+  background-image: url("./baner.jpg");
   background-repeat: no-repeat;
   background-size: contain;
 }
